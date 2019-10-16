@@ -1,0 +1,34 @@
+input
+{
+  font-size: 1.5em;
+  padding: 0.5em;
+  text-align: center;
+}
+table
+{
+  margin: 0.5em;
+  text-align: center;
+}
+th
+{
+  text-align: center;
+  background: lightgrey;
+  color: black;
+  padding: 1em;
+}
+td
+{
+  width: 3em;
+  text-align: center;
+  padding: 1em;
+  color: white;
+  background: grey;
+}
+.grid_down
+{
+  font-size: 1.5em;
+}
+h1
+{
+  margin: 1em;
+}
